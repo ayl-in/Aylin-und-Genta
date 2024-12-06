@@ -12,3 +12,6 @@ Fragen:
 Quellen
 
 - https://ourworldindata.org/pneumonia
+
+
+# 1. Daten beschaffen und laden
