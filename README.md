@@ -10,4 +10,5 @@ Fragen:
 - In welchem Jahr wurde der grösste Rückgang bei den Todesfällen durch Pneunokokken-bedingte Krankheiten weltweit beobachtet?
 
 Quellen
+
 https://ourworldindata.org/pneumonia
