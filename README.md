@@ -17,4 +17,4 @@ Quellen
 # 1. Daten beschaffen und laden
 
 import pandas as pd
-from matplotlib import pyplot as plt 1
+from matplotlib import pyplot as plt 1.1
