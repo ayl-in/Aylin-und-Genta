@@ -1,4 +1,4 @@
-# Todesfälle bei Kindern aufgrund von Krankheiten, die durch invasive Pneumokokken verursacht werden, weltweit
+# "Todesfälle bei Kindern durch invasive Pneumokokken-Erkrankungen weltweit (2000-2003)"
 Semesterprojekt Python
 
 Gruppe: Aylin Ago, Genta Arifi
