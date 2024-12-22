@@ -10,6 +10,7 @@ Fragen:
 - "In welchem Jahr von 2000 bis 2003, wurde der grösste Rückgang bei den Todesfällen durch Pneumokokken-bedingte Krankheiten weltweit beobachtet?"
 - "In welchen Ländern wurden zwischen den Jahren 2000 und 2003 die grössten Veränderungen der Todesfälle durch Streptococcus-Krankheiten verzeichnet?"
 - "Welche sind die 5 Länder mit den höchsten Todesfällen durch Streptococcus-Krankheiten in den Jahren 2000 bis 2003?"
+
 Quellen
 
 - https://ourworldindata.org/pneumonia
